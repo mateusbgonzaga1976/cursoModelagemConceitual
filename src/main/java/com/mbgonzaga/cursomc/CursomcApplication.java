@@ -14,7 +14,6 @@ import com.mbgonzaga.cursomc.domain.Cliente;
 import com.mbgonzaga.cursomc.domain.Endereco;
 import com.mbgonzaga.cursomc.domain.Estado;
 import com.mbgonzaga.cursomc.domain.ItemPedido;
-import com.mbgonzaga.cursomc.domain.ItemPedidoPK;
 import com.mbgonzaga.cursomc.domain.Pagamento;
 import com.mbgonzaga.cursomc.domain.PagamentoComBoleto;
 import com.mbgonzaga.cursomc.domain.PagamentoComCartao;
